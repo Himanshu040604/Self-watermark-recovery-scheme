@@ -122,7 +122,7 @@ python train.py --batch_size 8 --lr 1e-4
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Himanshu-singh040604/self-watermark-recovery-scheme}}
+  howpublished = {\url{https://github.com/Himanshu-singh040604/Self-watermark-recovery-scheme}}
 }
 ```
 
