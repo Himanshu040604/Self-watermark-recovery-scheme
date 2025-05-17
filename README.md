@@ -92,9 +92,30 @@ conda create -n watermark_recovery python=3.9
 conda activate watermark_recovery
 
 Install dependencies
+
 pip install -r requirements.txt
 
 Start training other models except **autoencoder**
+
+
+---
+**NOTE**
+  
+Install Python 3.9–3.12(which is also compatible with the other required installation and dependencies.
+
+Install compatible NVIDIA drivers and CUDA Toolkit if using GPU.
+
+Use a modern CPU, NVIDIA GPU, 16–32GB RAM, and SSD storage for faster and better responses.
+
+Optional
+
+1)install Jupyter Notebook/Lab for code development.
+
+2)Visual C++ Build Tools (Windows Only)
+
+Some Python packages require C++ build tools. Install from the official Microsoft website if needed.
+
+
 
 
 
