@@ -112,25 +112,3 @@ python train.py --batch_size 8 --lr 1e-4
 ```
 
 ---
-
-## 📄 Citation
-
-```
-@misc{SelfWatermarkRecovery2024,
-  author = {Himanshu Singh},
-  title = {Self Watermark Recovery Scheme},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Himanshu-singh040604/Self-watermark-recovery-scheme}}
-}
-```
-
----
-
-**Note:**  
-Replace any placeholder code or architecture details with your actual implementation if they differ.  
-```
-
----
-Answer from Perplexity: pplx.ai/share
