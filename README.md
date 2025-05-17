@@ -98,7 +98,7 @@ total_loss = (l1_loss(reconstructed, target) +
 
 ```
 # Clone the repository
-git clone https://github.com/Himanshu-singh040604/self-watermark-recovery-scheme.git
+git clone https://github.com/Himanshu040604/Self-watermark-recovery-scheme
 
 # Create and activate a conda environment
 conda create -n watermark_recovery python=3.9
